@@ -25,9 +25,9 @@
   transform: scale(1.08);
   cursor: pointer;
 }
-/* .row_posterLarge {
+.row_posterLarge {
   max-height: 250px;
 }
 .row_posterLarge:hover {
   transform: scale(1.09);
-} */
+}
