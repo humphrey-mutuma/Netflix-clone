@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Netflix Clone ReactJS
+
+## Node Packages
+
+React-Youtube, React-indiana-drag-scroll, movie-trailer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
